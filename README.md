@@ -3,7 +3,7 @@
 This repository contains a Jupyter notebook for predicting Remaining Useful Life (RUL) of NASA's Lithium Ion batteries using Neural Networks. The notebook is based on two datasets:
 
 - `BATTERY_RUL.csv`: This dataset contains the RUL of each battery cycle.
-- `NASA_LiIon_Battery_Cycles.csv`: This dataset contains the operational data of the batteries including inputs and capacity.
+- `Input n Capacity.csv`: This dataset contains the operational data of the batteries including inputs and capacity.
 
 ## Dataset
 
